@@ -1,0 +1,11 @@
+{
+  "project_id": "",
+  "branch_id": "",
+  "api_base_url": "http://localhost:8080",
+  "customer": "altostrat",
+  "use_autocomplete": false,
+  "use_facets": false,
+  "search_on_type": true,
+  "sample_product_id": "",
+  "use_points_and_hardcoded_list": false
+}

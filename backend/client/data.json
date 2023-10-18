@@ -1,0 +1,9 @@
+{
+  "query": "waga",
+  "placement": "projects/PROJECT_ID/locations/global/catalogs/default_catalog/placements/default_search",
+  "branch": "projects/PROJECT_ID/locations/global/catalogs/default_catalog/branches/1",
+  "page_size": 3,
+  "offset": 0,
+  "visitor_id": "1234567890",
+  "page_token": "gMyY2MiFzYyIWZ0kTLiVzNi1CM2YmMtADMwATLkVjMhJTZzYDJaIwxWO-5QYwnYWr4IwgE4EgC"
+}
